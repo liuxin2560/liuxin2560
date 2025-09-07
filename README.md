@@ -3,15 +3,15 @@
   <img src="https://path.to/your/header-image.gif" width="600" />
 </p>
 
-<h1 align="center">Hi 👋, I'm [你的名字]</h1>
+<h1 align="center">Hi 👋, I'm [liuxin]</h1>
 <h3 align="center">A passionate developer from [你的城市/国家]</h3>
 
 ---
 
 ### 👨‍💻 About Me:
 
-- 🔭 I’m currently working on **[你正在做的项目]**
-- 🌱 I’m currently learning **[你正在学习的技术]**
+- 🔭 I’m currently working on **[]**
+- 🌱 I’m currently learning **[]**
 - 💬 Ask me about **[你擅长的领域, e.g., React, Python, Machine Learning]**
 - 📫 How to reach me: **[你的邮箱]**
 - ⚡ Fun fact: **[关于你的一个有趣的事实]**
