@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm [liuxin]</h1>
-<h3 align="center">A passionate developer from [你的城市/国家]</h3>
+<h3 align="center">A passionate developer from [jiangxi/China]</h3>
 
 ---
 
